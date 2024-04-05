@@ -1,14 +1,14 @@
 {
-  "id": "Opsmx.CustomStagePlugin",
-  "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-  "provider": "https://github.com/opsmx-public",
-  "releases": [
-    {
-      "version": "v1.0.10.dirty-SNAPSHOT",
-      "date": "2024-04-05T14:12:27.119966Z",
-      "requires": "orca>=0.0.0",
-      "sha512sum": "9a8ae1a672f057b25c48057da40e125cf64d8c7d398ebdd3017d19b43cb56687cfcf576781fe9cd595d188152229727e0b3b96d1594b43e208bfb62c48098cb0",
-      "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/main/pf4jCustomStagePlugin-v1.0.10.dirty-SNAPSHOT.zip"
-    }
-  ]
+    "id": "Opsmx.CustomStagePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+    "provider": "https://github.com/opsmx-public",
+    "releases": [
+        {
+            "version": "v1.0.10.dirty-SNAPSHOT",
+            "date": "2024-04-05T14:12:27.119966Z",
+            "requires": "orca>=0.0.0",
+            "sha512sum": "9a8ae1a672f057b25c48057da40e125cf64d8c7d398ebdd3017d19b43cb56687cfcf576781fe9cd595d188152229727e0b3b96d1594b43e208bfb62c48098cb0",
+            "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/main/pf4jCustomStagePlugin-v1.0.10.dirty-SNAPSHOT.zip"
+        }
+    ]
 }
