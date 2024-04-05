@@ -1,0 +1,2 @@
+# newspinplugin
+spin-plugins
