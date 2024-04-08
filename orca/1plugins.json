@@ -1,0 +1,16 @@
+[
+    {
+        "id": "Armory.ObservabilityPlugin",
+        "description": "A plugin for configuring and customizing Micrometer for Armory.",
+        "provider": "TODO",
+        "releases": [
+            {
+                "version": "1.4.3",
+                "date": "2024-03-05T08:43:03.560815Z",
+                "requires": "orca>=0.0.0",
+                "sha512sum": "23cbc14c3990344a005b612731ef03a176cafd553c9ef0ceed191c79ee6ad964aa152d084d033b133871a79a5d70259b254e3a1723f86fba9d49f7ea2f0c8da9",
+                "url": "https://raw.githubusercontent.com/opsmx-public/ISD-Plugins/main/armory-observability-plugin-v1.4.3.zip"
+            }
+        ]
+    }
+]
