@@ -8,7 +8,7 @@
                 "version": "1.0.1",
                 "date": "2024-04-05T08:18:46.747575Z",
                 "requires": "orca>=0.0.0",
-                "sha512sum": "ae95faab2555f2cb82c2e3d3ef3d9775c3b47f4eae0b098784be1c069b342e496b8ec11713928ebe263c770b39b3c279bc650c033a70541a1c24dcf2b51227d8",
+                "sha512sum": "20a4af46090f2d4427dab2f1c231b416c222e8a45df9ec9afecb248b97bc38c018ba6b19d76c78da86c3b03a201b7d1855a88f2b0f2b306b218ffc008fda2fa8",
                 "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/main/pf4jCustomStagePlugin-v1.0.10.dirty-SNAPSHOT.zip"
             }
         ]
