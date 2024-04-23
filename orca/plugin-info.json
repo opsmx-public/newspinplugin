@@ -1,17 +1,14 @@
 {
     "id": "Zendesk.SmokeTestPlugin",
     "description": "A PF4J-based plugin that provides a custom pipeline stage to query Datadog and get smoke test results.",
-    "provider": "https://github.com/zendesk/spinnaker-plugins",
+    "provider": "https://github.com/opsmx",
     "releases": [
         {
             "version": "8.2.0-SNAPSHOT",
             "date": "2024-04-23T10:41:16.205680Z",
             "requires": "orca>=0.0.0,deck>=0.0.0",
             "sha512sum": "ab27dc43a6601379c28919a041286370617f3f9a059a30b4fe3fb7a2b770449b9eabd0df0c34b50a80d3ba2f8bbde327ada54a505f7146c06a55ea3cd79dbd83",
-            "preferred": false,
-            "compatibility": [
-                
-            ]
+            "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/main/smoke-test-8.2.0-SNAPSHOT.zip"
         }
     ]
 }
