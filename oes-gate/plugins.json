@@ -8,9 +8,9 @@
       "version": "1.4.2",
       "date": "2023-06-07T16:20:59.469168Z",
       "requires": "orca>=0.0.0,deck>=0.0.0,gate>=0.0.0",
-      "sha512sum": "e7ec74b0dc48917206e4edd9846c4dc0c44df73cd126c708956bf2726d8fa8d4380d6ef3ab5dbb02167544589c4cd6ad3ed7774696a0289920a5bee10a035056",
+      "sha512sum": "53f5cf98221d38c1378147f6322149e4789bb65279fa96d32e1d17da27fbc1068795456a06207ed097e1e48c08a3ec8894d0fff5d9d9b2038728bf02aab35adc",
       "state": "",
-      "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/oes-gate-datadog/armory-observability-plugin-v1.4.2.dirty-SNAPSHOT.zip"
+      "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/oes-gate-datadog/armory-observability-plugin-v1.4.2.zip"
     }
   ]
 }
