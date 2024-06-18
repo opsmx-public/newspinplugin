@@ -8,7 +8,7 @@
       "version": "1.4.2",
       "date": "2023-06-07T16:20:59.469168Z",
       "requires": "orca>=0.0.0,deck>=0.0.0,gate>=0.0.0",
-      "sha512sum": "53f5cf98221d38c1378147f6322149e4789bb65279fa96d32e1d17da27fbc1068795456a06207ed097e1e48c08a3ec8894d0fff5d9d9b2038728bf02aab35adc",
+      "sha512sum": "efee51bac6722431d5802f05e9b45e066bf101c709aba49882ff6719d276638ee1745862c7adf0effbcb223fa4b5fd2f8e99f4b0373cfb5104052e62d6a0b7eb",
       "state": "",
       "url": "https://raw.githubusercontent.com/opsmx-public/newspinplugin/oes-gate-datadog/armory-observability-plugin-v1.4.2.zip"
     }
